@@ -11,6 +11,8 @@ For each scenario, input both naïve and basic prompts into ChatGPT and record t
 Compare outputs based on quality, accuracy, and depth.
 
 Analyze findings to determine the impact of prompt clarity on ChatGPT’s performance.
+<img width="781" height="380" alt="image" src="https://github.com/user-attachments/assets/c910bdbc-12dd-49b2-aedb-bdd67274056e" />
+
 
 # OUTPUT
 ### Purpose:
@@ -112,6 +114,8 @@ Chat GPT provides more detailed explanations, while Gemini is generally more con
 Complex scenarios tend to be handled more accurately by ChatGPT, whereas simpler, straightforward tasks are more precisely handled by Gemini
 ### 3.	Depth:
 Gemini offers deeper responses in unstructured or broad prompts, while ChatGPT is more efficient in structured, refined prompts.
-Overall, the best model depends on user preference for detail, clarity, and the complexity of the prompt. Gemini is the best choice for users seeking more depth and detailed explanations
+Overall, the best model depends on user preference for detail, clarity, and the complexity of the prompt. Gemini is the best choice for users seeking more depth and detailed explanations.
+<img width="855" height="641" alt="image" src="https://github.com/user-attachments/assets/0bcd5469-fd64-4c0a-a3bb-b4a39ee7272a" />
+
 # Result:
 The prompt for the above said problem executed successfully
